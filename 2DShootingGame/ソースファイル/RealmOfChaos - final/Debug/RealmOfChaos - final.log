@@ -1,0 +1,8 @@
+﻿  game.cpp
+  game_clear.cpp
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\game_clear.cpp(71,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\game_clear.cpp(105,13): warning C4101: 'pVtx': unreferenced local variable
+  renderer.cpp
+  warning.cpp
+  Generating Code...
+  RealmOfChaos - final.vcxproj -> C:\Users\student\Desktop\C++Game\RealmOfChaos - final\Debug\RealmOfChaos - final.exe

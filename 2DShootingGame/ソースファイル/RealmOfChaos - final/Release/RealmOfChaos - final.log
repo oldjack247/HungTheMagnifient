@@ -1,0 +1,45 @@
+﻿  bg.cpp
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\bg.cpp(109,36): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\bg.cpp(140,13): warning C4101: 'pVtx': unreferenced local variable
+  bullet.cpp
+  client_ranking.cpp
+  controller.cpp
+  effect.cpp
+  enemy.cpp
+  explosion.cpp
+  fade.cpp
+  game.cpp
+  game_clear.cpp
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\game_clear.cpp(71,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\game_clear.cpp(105,13): warning C4101: 'pVtx': unreferenced local variable
+  game_over.cpp
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\game_over.cpp(69,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\game_over.cpp(103,13): warning C4101: 'pVtx': unreferenced local variable
+  input.cpp
+  item.cpp
+  keyboard.cpp
+  life.cpp
+  main.cpp
+  manager.cpp
+  pause.cpp
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\pause.cpp(110,73): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\pause.cpp(113,73): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\pause.cpp(116,73): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\student\Desktop\C++Game\RealmOfChaos - final\RealmOfChaos - final\pause.cpp(119,73): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+  player.cpp
+  renderer.cpp
+  Compiling...
+  result.cpp
+  scene.cpp
+  scene2d.cpp
+  score.cpp
+  sound.cpp
+  tcp_client.cpp
+  title.cpp
+  tutorial.cpp
+  warning.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 331 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RealmOfChaos - final.vcxproj -> C:\Users\student\Desktop\C++Game\RealmOfChaos - final\Release\RealmOfChaos - final.exe
