@@ -1,0 +1,63 @@
+﻿  billboard.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  camera.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  character.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  collision.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  debugcollision.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  fade.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  game.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  gameover.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  input.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  joystick.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  keyboard.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  light.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  loadmodeldata.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  main.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  manager.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  map.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  mode.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  model.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  motion.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  player.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...
+  Compiling...
+  renderer.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  result.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  scene.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  scene2d.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  scene3d.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  skybox.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  sound.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  title.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  tutorial.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ui.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\main.h(10,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...

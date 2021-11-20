@@ -1,0 +1,54 @@
+#==============================================================================
+#
+# 『モーションビューワ』スクリプトファイル [player_model_name.txt]
+# Author : Nguyen Dang Hung
+#
+#==============================================================================
+SCRIPT			# この行は絶対消さないこと！
+	MODELNAMESET
+		MODELNUM = 0
+		PARTSNUM = 18
+		MODEL_FILENAME = data/MODEL/PLAYER/00_body.x						# [0]腹/body
+		MODEL_FILENAME = data/MODEL/PLAYER/01_head.x						# [1]頭/head
+		MODEL_FILENAME = data/MODEL/PLAYER/02_right_shoulder.x				# [2]右上腕/right shoulder
+		MODEL_FILENAME = data/MODEL/PLAYER/03_right_arm.x					# [3]右前腕/right arm
+		MODEL_FILENAME = data/MODEL/PLAYER/04_right_fist.x					# [4]右手/rightfist
+		MODEL_FILENAME = data/MODEL/PLAYER/05_left_shoulder.x				# [5]左上腕/left shoulder
+		MODEL_FILENAME = data/MODEL/PLAYER/06_left_arm.x					# [6]左前腕/left arm
+		MODEL_FILENAME = data/MODEL/PLAYER/07_left_fist.x					# [7]左手/left fist
+		MODEL_FILENAME = data/MODEL/PLAYER/08_right_upper_foot.x			# [8]右腿/right upper foot
+		MODEL_FILENAME = data/MODEL/PLAYER/09_right_lower_foot.x			# [9]右脛/right lower foot
+		MODEL_FILENAME = data/MODEL/PLAYER/10_right_feet.x					# [10]右足/right feet
+		MODEL_FILENAME = data/MODEL/PLAYER/11_left_upper_foot.x				# [11]左腿/left upper foot
+		MODEL_FILENAME = data/MODEL/PLAYER/12_left_lower_foot.x 			# [12]左脛/left lower foot
+		MODEL_FILENAME = data/MODEL/PLAYER/13_left_feet.x					# [13]左足/left feet
+		MODEL_FILENAME = data/MODEL/PLAYER/14_waist.x						# [14]胸/waist
+		MODEL_FILENAME = data/MODEL/PLAYER/15_sword.x						# [15]weapon#1
+		MODEL_FILENAME = data/MODEL/PLAYER/16_sword_bot.x					# [16]weapon#1
+		MODEL_FILENAME = data/MODEL/PLAYER/17_sword_top.x					# [17]weapon#1
+		
+	END_MODELNAMESET
+	
+	MODELNAMESET
+		MODELNUM = 1
+		PARTSNUM = 17
+		MODEL_FILENAME = data/MODEL/ENEMY/00_body.x							# [0]腹/body
+		MODEL_FILENAME = data/MODEL/ENEMY/01_head.x							# [1]頭/head
+		MODEL_FILENAME = data/MODEL/ENEMY/02_right_shoulder.x				# [2]右上腕/right shoulder
+		MODEL_FILENAME = data/MODEL/ENEMY/03_right_arm.x					# [3]右前腕/right arm
+		MODEL_FILENAME = data/MODEL/ENEMY/04_right_fist.x					# [4]右手/rightfist
+		MODEL_FILENAME = data/MODEL/ENEMY/05_left_shoulder.x				# [5]左上腕/left shoulder
+		MODEL_FILENAME = data/MODEL/ENEMY/06_left_arm.x						# [6]左前腕/left arm
+		MODEL_FILENAME = data/MODEL/ENEMY/07_left_fist.x					# [7]左手/left fist
+		MODEL_FILENAME = data/MODEL/ENEMY/08_right_upper_foot.x				# [8]右腿/right upper foot
+		MODEL_FILENAME = data/MODEL/ENEMY/09_right_lower_foot.x				# [9]右脛/right lower foot
+		MODEL_FILENAME = data/MODEL/ENEMY/10_right_feet.x					# [10]右足/right feet
+		MODEL_FILENAME = data/MODEL/ENEMY/11_left_upper_foot.x				# [11]左腿/left upper foot
+		MODEL_FILENAME = data/MODEL/ENEMY/12_left_lower_foot.x 				# [12]左脛/left lower foot
+		MODEL_FILENAME = data/MODEL/ENEMY/13_left_feet.x					# [13]左足/left feet
+		MODEL_FILENAME = data/MODEL/ENEMY/14_waist.x						# [14]胸/waist
+		MODEL_FILENAME = data/MODEL/ENEMY/15_axe.x							# [15]weapon#1
+		MODEL_FILENAME = data/MODEL/ENEMY/16_shield.x						# [16]weapon#2
+	END_MODELNAMESET
+
+END_SCRIPT		# この行は絶対消さないこと！
