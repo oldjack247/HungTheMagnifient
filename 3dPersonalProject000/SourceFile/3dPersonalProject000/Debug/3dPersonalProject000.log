@@ -1,0 +1,12 @@
+﻿  game.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\player.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  gameover.cpp
+  manager.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\player.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  result.cpp
+  title.cpp
+  tutorial.cpp
+  ui.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\player.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  3dPersonalProject000.vcxproj -> C:\Users\student\Desktop\C++Game\3dPersonalProject000\Debug\3dPersonalProject000.exe

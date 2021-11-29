@@ -1,0 +1,21 @@
+﻿  camera.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\player.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  enemydeatheffect.cpp
+  fire.cpp
+  game.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\player.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  magiccircle.cpp
+  manager.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\player.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  player.cpp
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\player.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\player.cpp(206,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\student\Desktop\C++Game\3dPersonalProject000\3dPersonalProject000\player.cpp(410,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  slash.cpp
+  swordeffect.cpp
+  Generating code
+  2 of 439 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  3dPersonalProject000.vcxproj -> C:\Users\student\Desktop\C++Game\3dPersonalProject000\Release\3dPersonalProject000.exe
