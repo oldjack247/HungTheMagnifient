@@ -25,7 +25,7 @@ This is just a alpha version
 
 3. 3D Action game/ Written in C / non-Engine
 
-The team project, my responsibilites were creating/finding models, making character's motion and setting up stage
+The team project, my responsibilities were creating/finding models, making character's motion and setting up stage
 
 ![タイトル](https://user-images.githubusercontent.com/73513692/217793899-b3393a39-be46-4fad-b8c0-b377edd3f9ed.jpg)
 ![プレイ画面](https://user-images.githubusercontent.com/73513692/217793908-d33258e5-571f-4e25-9928-432824367554.jpg)
