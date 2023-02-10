@@ -1,7 +1,7 @@
 # SchoolProject
 NguyenDangHung20220113
 
-These are 3 School projects I made (take part in) when I was studying at Yoshida college school in Sapporo, Japan
+These are 3 School projects I made (took part in) when I was studying at Yoshida Business and Technology college in Sapporo, Japan
 
 1. 2D Shooting game / Written in C++ / non-Engine
 The first complete game I have ever made. The simple Space-shooting game with 2 boss fight stages
@@ -23,7 +23,7 @@ This is just a alpha version
 
 ![004Screenshot (1)](https://user-images.githubusercontent.com/73513692/217791125-f3b4de3a-a5e6-4894-a8a0-29eadf501fb4.png)
 
-3. 3D Action game/ Writeen in C / non-Engine
+3. 3D Action game/ Written in C / non-Engine
 
 The team project, my responsibilites were creating/finding models, making character's motion and setting up stage
 
