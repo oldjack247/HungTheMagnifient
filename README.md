@@ -6,6 +6,8 @@ These are 3 School projects I made (took part in) when I was studying at Yoshida
 1. 2D Shooting game / Written in C++ / non-Engine
 The first complete game I have ever made. The simple Space-shooting game with 2 boss fight stages
 
+ Gameplay Video: https://www.youtube.com/watch?v=fCsQ8cMrB1o
+
 ![000Screenshot](https://user-images.githubusercontent.com/73513692/217790151-8e51914b-6b92-4783-881a-55d94ec6432e.png)
 ![003Screenshot](https://user-images.githubusercontent.com/73513692/217790178-366494cb-a389-41c4-9dee-bdf890bd5129.png)
 Sub-Boss fight stage
@@ -16,6 +18,8 @@ Main Boss fight stage phase 2
 
 2. 3D Action game/ Written in C++ / non-Engine
 The 3D game project that has basic mechanic of Souls-like game series and Models of Total war Warhammer 3
+
+ Gameplay Video: https://www.youtube.com/watch?v=vQqZB_V7NAc
 
 ![003Screenshot (1)](https://user-images.githubusercontent.com/73513692/217791101-07a9bd41-f580-4737-87e8-b2fe50804178.png)
 
